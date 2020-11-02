@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: \
-    destination: /cw/dscc
+  - source: /
+    destination: \cw\dscc\project
 hooks:
  ApplicationStart:
