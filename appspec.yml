@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: DSCC_CW1_6697_Rest.sln 
-    destination: c:\inetpub\wwwroot\webtest
+  - source: \
+    destination: /cw/dscc
 hooks:
  ApplicationStart:
